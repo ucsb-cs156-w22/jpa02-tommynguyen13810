@@ -1,6 +1,6 @@
 # jpa02-tommynguyen13810
 
-Repo: https://github.com/ucsb-cs156-w22/jpa02-tommynguyen
+Repo: https://github.com/ucsb-cs156-w22/jpa02-tommynguyen13810
 
 On Heroku: https://jpa02-tommynguyen.herokuapp.com
 
