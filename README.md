@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w22/jpa02-tommynguyen
 
-On Heroku: https://cs156-w22-jpa02-tommynguyen.herokuapp.com
+On Heroku: https://jpa02-tommynguyen.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-tommynguyen
 
